@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on implementation of faas worker
-- 🌱 I’m currently learning NodeJS & V8 Isolate
+- 🌱 I’m currently learning AI
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lilong7676&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true" />
 
