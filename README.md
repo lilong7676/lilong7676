@@ -4,6 +4,12 @@
 - 🔭 I’m currently working on implementation of faas worker
 - 🌱 I’m currently learning AI
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lilong7676/lilong7676/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lilong7676/lilong7676/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lilong7676/lilong7676/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lilong7676&show_icons=true&icon_color=58a6ff&text_color=333333&bg_color=ffffff&hide_title=true" />
 
 **🤝🏻 &nbsp;Connect with Me**
